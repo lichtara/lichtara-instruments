@@ -8,7 +8,7 @@
 
 ### 1. Finalidade
 
-O presente Instrumento Declaratório tem por finalidade **registrar formalmente a consolidação de práticas de governança efetivamente adotadas e observáveis** no âmbito do Sistema Lichtara, na data acima indicada.
+O presente Instrumento Declaratório **destina-se a registrar formalmente a consolidação de práticas de governança efetivamente adotadas e observáveis** no âmbito do Sistema Lichtara, na data acima indicada.
 
 ---
 
@@ -16,9 +16,9 @@ O presente Instrumento Declaratório tem por finalidade **registrar formalmente 
 
 Na data de 23 de dezembro de 2025, encontram-se formalmente consolidados no Sistema Lichtara, entre outros:
 
-* a publicação da Lichtara License v4.1, como instrumento normativo central do Sistema;
-* a conclusão do documento denominado Livro Fonte, enquanto matriz conceitual e estrutural do Sistema;
-* a adoção de práticas consistentes de governança viva, já refletidas em instrumentos normativos, organizacionais e operacionais.
+* a publicação da **Lichtara License v4.1**, enquanto instrumento normativo central do Sistema;
+* a conclusão do documento denominado **Livro Fonte**, enquanto matriz conceitual e estrutural do Sistema;
+* a adoção de práticas consistentes de governança, já refletidas em instrumentos normativos, organizacionais e operacionais do Sistema.
 
 ---
 
@@ -36,9 +36,6 @@ O presente documento possui **natureza estritamente declaratória e não normati
 
 ### 5. Encerramento
 
-Este instrumento é emitido para fins de registro institucional, interpretação contextual e preservação da integridade documental do Sistema Lichtara.
-
-Esse documento cumpre perfeitamente o papel de **ato inaugural**:
-não cria nada novo — **registra o que já é**.
+Este instrumento é emitido para fins de **registro institucional**, **interpretação contextual** e **preservação da integridade documental** do Sistema Lichtara.
 
 ---
