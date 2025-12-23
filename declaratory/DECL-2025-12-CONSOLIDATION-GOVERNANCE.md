@@ -1,7 +1,7 @@
-### **DECL-2025-12-CONSOLIDATION-GOVERNANCE.md**
-
 **INSTRUMENTO DECLARATÓRIO DE CONSOLIDAÇÃO DE PRÁTICAS DE GOVERNANÇA**
+
 **Sistema Lichtara**
+
 **Data:** 23 de dezembro de 2025
 
 ---
