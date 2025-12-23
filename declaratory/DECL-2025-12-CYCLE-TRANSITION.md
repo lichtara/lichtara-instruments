@@ -1,7 +1,7 @@
-## **DECL-2025-12-CYCLE-TRANSITION.md**
-
 **INSTRUMENTO DECLARATÓRIO DE TRANSIÇÃO DE CICLO INSTITUCIONAL**
+
 **Sistema Lichtara**
+
 **Data:** 23 de dezembro de 2025
 
 ---
