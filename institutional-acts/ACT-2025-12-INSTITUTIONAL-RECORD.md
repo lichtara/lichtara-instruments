@@ -1,7 +1,8 @@
-## **ACT-2025-12-INSTITUTIONAL-RECORD-LICHTARA-INSTRUMENTS.md**
+## **ACT-2025-12-INSTITUTIONAL-RECOGNITION-LICHTARA-INSTRUMENTS.md**
 
 **ATO INSTITUCIONAL NÃO NORMATIVO
-DE REGISTRO DA CRIAÇÃO DO REPOSITÓRIO LICHTARA-INSTRUMENTS**
+DE RECONHECIMENTO E ENQUADRAMENTO INSTITUCIONAL
+DO REPOSITÓRIO LICHTARA-INSTRUMENTS**
 **Sistema Lichtara**
 **Data:** 23 de dezembro de 2025
 
@@ -9,54 +10,54 @@ DE REGISTRO DA CRIAÇÃO DO REPOSITÓRIO LICHTARA-INSTRUMENTS**
 
 ### 1. Finalidade
 
-O presente Ato Institucional Não Normativo destina-se a **registrar formalmente a criação, o enquadramento e a finalidade institucional** do repositório denominado `lichtara-instruments`, no âmbito do Sistema Lichtara.
+O presente Ato Institucional Não Normativo destina-se a **reconhecer formalmente e enquadrar institucionalmente** o repositório denominado `lichtara-instruments`, enquanto espaço documental específico no âmbito do Sistema Lichtara.
 
 ---
 
-### 2. Descrição do Ato
+### 2. Reconhecimento do Fato Institucional
 
-Na data de 23 de dezembro de 2025, registra-se a criação do repositório `lichtara-instruments`, com a finalidade específica de **reunir instrumentos jurídicos formais de natureza não normativa**, destinados ao registro declaratório, hermenêutico e institucional de práticas, estados e regimes de governança efetivamente observados no Sistema Lichtara.
+Reconhece-se, para fins institucionais e documentais, que o repositório `lichtara-instruments` encontra-se **materialmente existente e operante**, constituindo um fato organizacional já estabelecido no âmbito do Sistema Lichtara.
 
-O referido repositório passa a integrar a organização documental do Sistema como espaço próprio e distinto dos repositórios destinados a instrumentos normativos, técnicos ou operacionais.
+Tal repositório decorre da prática efetiva de separação funcional entre:
+
+* instrumentos normativos do Sistema; e
+* instrumentos jurídicos formais de natureza não normativa.
 
 ---
 
 ### 3. Enquadramento Institucional
 
-O repositório `lichtara-instruments`:
+O repositório `lichtara-instruments` é reconhecido, no âmbito do Sistema Lichtara, como espaço destinado **exclusivamente** à reunião e preservação de:
 
-a) não contém instrumentos normativos, contratuais ou regulatórios;
-b) não produz obrigações jurídicas autônomas;
-c) não altera direitos ou deveres existentes;
-d) destina-se exclusivamente ao **registro institucional organizado** de documentos de caráter declaratório, hermenêutico e probatório.
+a) instrumentos declaratórios;
+b) registros hermenêuticos institucionais;
+c) atos institucionais não normativos;
 
-Sua criação reflete práticas de governança já adotadas e consolidadas no Sistema Lichtara, em especial no que se refere à separação formal entre instrumentos normativos e instrumentos não normativos.
-
----
-
-### 4. Natureza Jurídica
-
-O presente ato possui **natureza estritamente institucional e não normativa**, não criando obrigações jurídicas autônomas, não alterando direitos ou deveres existentes e não substituindo instrumentos normativos, contratuais ou regulatórios vigentes.
+todos voltados ao **registro organizado de práticas, estados institucionais e regimes de governança efetivamente observados**, sem caráter constitutivo ou normativo.
 
 ---
 
-### 5. Encerramento
+### 4. Limites e Salvaguardas
 
-Este Ato Institucional Não Normativo é emitido para fins de **registro institucional**, **memória organizacional** e **preservação da integridade documental** do Sistema Lichtara.
+O reconhecimento institucional ora registrado:
+
+* **não confere caráter normativo** aos documentos ali contidos;
+* **não cria obrigações jurídicas autônomas**;
+* **não altera direitos ou deveres existentes**;
+* **não substitui instrumentos normativos, contratuais ou regulatórios vigentes**.
+
+Os documentos reunidos no referido repositório possuem natureza estritamente **declaratória, hermenêutica ou institucional**, conforme expressamente indicado em cada instrumento.
 
 ---
 
-### Observação final (fora do documento)
+### 5. Natureza Jurídica do Ato
 
-Com este ato:
+O presente Ato possui **natureza institucional e não normativa**, limitando-se ao reconhecimento e enquadramento formal de um fato organizacional já existente, sem produzir efeitos jurídicos autônomos.
 
-* o repositório ganha **existência institucional formal registrada**;
-* fecha-se o **tripé inaugural** do `lichtara-instruments`:
+---
 
-  1. Instrumento Declaratório
-  2. Registro Hermenêutico Institucional
-  3. Ato Institucional Não Normativo
+### 6. Encerramento
 
-A partir daqui, o repositório pode crescer **sem ambiguidade jurídica**.
+Este Ato Institucional Não Normativo é emitido para fins de **registro institucional**, **memória organizacional** e **preservação da integridade documental** do Sistema Lichtara, na data acima indicada.
 
 ---
