@@ -2,32 +2,34 @@
 
 **Sistema Lichtara**
 
+---
+
 ## 1. Natureza e Finalidade
 
-O presente documento constitui o **Registro Geral dos Instrumentos Declaratórios, Hermenêuticos e Institucionais** reconhecidos no âmbito do Sistema Lichtara.
+O presente documento constitui o **Registro Geral dos Instrumentos Declaratórios, Hermenêuticos e Institucionais** reconhecidos, mantidos e observáveis no âmbito do **Sistema Lichtara**.
 
-Sua finalidade é **registrar formalmente a existência, identificação, datação e estado** dos instrumentos declaratórios emitidos, de forma organizada, verificável e passível de comprovação documental.
+Sua finalidade é **registrar, de forma formal, organizada e verificável**, a existência, identificação, datação, natureza e estado dos instrumentos declaratórios emitidos no contexto do Sistema, assegurando sua **rastreabilidade documental, publicidade técnica e preservação histórica**.
 
-Este Registro possui natureza **estritamente declaratória, organizacional e probatória**, não constituindo contrato, licença, regulamento, estatuto, política vinculante ou instrumento normativo.
+Este Registro possui natureza **estritamente declaratória, organizacional e probatória**, não constituindo, sob qualquer hipótese, **contrato, licença, regulamento, estatuto, política vinculante, ato normativo ou instrumento gerador de obrigações jurídicas autônomas**.
 
 ---
 
 ## 2. Alcance Jurídico
 
-O REGISTRO GERAL:
+O presente REGISTRO GERAL:
 
-* **não cria**, **não altera** e **não extingue** direitos ou obrigações;
-* **não substitui** instrumentos normativos vigentes;
-* **não possui hierarquia normativa**;
-* pode ser utilizado como **elemento contextual de prova documental**, inclusive para fins de auditoria, interpretação institucional ou verificação de boa-fé objetiva.
+* **não cria, não altera e não extingue** direitos, deveres ou obrigações;
+* **não substitui**, nem modifica, instrumentos normativos vigentes;
+* **não possui hierarquia normativa** no âmbito do Sistema Lichtara;
+* pode ser utilizado como **elemento contextual de prova documental**, inclusive para fins de auditoria, verificação institucional, interpretação sistemática ou demonstração de boa-fé objetiva.
 
 ---
 
-## 3. Autoridade Declaratória
+## 3. Autoridade Declaratória e Custódia
 
-Os instrumentos aqui registrados são declarados, mantidos, atualizados ou encerrados pela **Guardiã do Sistema Lichtara**, na condição de responsável pela custódia, continuidade e integridade institucional do Sistema, conforme práticas efetivamente observadas.
+Os instrumentos aqui registrados são **declarados, mantidos, atualizados ou encerrados** pela **Guardiã do Sistema Lichtara**, na condição de responsável pela **custódia institucional, continuidade histórica e integridade estrutural** do Sistema, conforme práticas efetivamente observadas e documentadas.
 
-A declaração de cada instrumento decorre de **ato consciente, expresso e documentado**, registrado em repositório público verificável.
+A declaração de cada instrumento decorre de **ato consciente, expresso e formalmente documentado**, registrado em **repositório público verificável**, com preservação integral de histórico, versões e metadados.
 
 ---
 
@@ -47,28 +49,30 @@ A declaração de cada instrumento decorre de **ato consciente, expresso e docum
 
 ## 5. Instrumentos em Consolidação
 
-Os seguintes instrumentos encontram-se em fase de elaboração ou consolidação interna, não estando ainda formalmente declarados:
+Os instrumentos abaixo indicados encontram-se em **fase de elaboração ou consolidação interna**, não estando, até o presente momento, formalmente declarados ou incorporados ao Registro Geral:
 
-* **ID-002 — Instrumento Declaratório de Forma & Limite** *(em preparação)*
+* **ID-002 — Instrumento Declaratório de Forma e Limite** *(em preparação)*
 
 ---
 
-## 6. Regra de Atualização
+## 6. Regra de Atualização e Preservação
 
-Este Registro é atualizado exclusivamente quando:
+O presente Registro é atualizado exclusivamente nas seguintes hipóteses:
 
-* um novo instrumento é formalmente declarado;
-* um instrumento declarado é explicitamente encerrado;
-* ocorre reorganização estrutural do sistema de instrumentos.
+* declaração formal de novo instrumento;
+* encerramento explícito de instrumento anteriormente declarado;
+* reorganização estrutural do sistema de instrumentos declaratórios.
 
-Todas as versões são preservadas por meio do histórico público do repositório.
+Todas as versões, alterações e estados históricos são **preservados por meio do controle público de versões do repositório**, garantindo rastreabilidade, transparência e integridade documental.
 
 ---
 
 ## 7. Cláusula Final
 
-O presente Registro limita-se a **declarar a existência e identificação** dos instrumentos aqui listados, não interpretando, comentando ou modificando seu conteúdo.
+O presente Registro limita-se a **declarar a existência, identificação e estado** dos instrumentos nele listados, **não interpretando, comentando, ampliando ou restringindo** o conteúdo dos instrumentos declarados.
 
-Sistema Lichtara
-Registro Geral dos Instrumentos Declaratórios
-Versão 1.0
+---
+
+**Sistema Lichtara**
+**Registro Geral dos Instrumentos Declaratórios**
+**Versão 1.0**
